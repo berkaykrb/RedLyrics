@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FF1111</color>
+    <color name="red">#FF1111</color>
+    <color name="spotifyGreen">#1ED760</color>
+    <color name="errorColor">#e85858</color>
+</resources>

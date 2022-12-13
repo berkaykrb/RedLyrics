@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">RedLyrics</string>
+    <string name="action_bar_text">RedLyrics.</string>
+    <string name="title_home">Home</string>
+    <string name="title_lyrics">Lyrics</string>
+    <string name="title_about">About</string>
+
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="on_spotify">ON SPOTIFY</string>
+    <string name="get_lyrics">GET LYRICS</string>
+
+    <string name="lyrics">LYRICS</string>
+    <string name="by_genius">powered by GENIUS</string>
+    <string name="no_lyrics">No lyrics found.</string>
+
+    <string name="red_about">Red</string>
+    <string name="lyrics_about">Lyrics.</string>
+    <string name="by_redbox">by RedBox</string>
+    <string name="website">WEBSITE</string>
+    <string name="special_thanks">Special thanks to,</string>
+
+    <string name="finding_lyrics">Finding lyrics...</string>
+    <string name="lyrics_error">We were unable to find this songs lyrics.</string>
+    <string name="ok">OK</string>
+
+    <string name="sorry">Sorry</string>
+    <string name="error">Error</string>
+    <string name="connection_problem">Connection problem.</string>
+    <string name="spotify_not_installed">Spotify is not installed on your phone.</string>
+    <string name="exit_app">EXIT APP</string>
+
+</resources>
