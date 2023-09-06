@@ -1,5 +1,5 @@
 # RedLyrics
- RedLyrics for Spotify (Android-JAVA)
+RedLyrics for Spotify (Android & JAVA Project)
  
 It is an application that brings the lyrics by getting them on Genius.com after getting the song information listened to on Spotify with Spotify Local API.
 
